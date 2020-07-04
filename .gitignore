@@ -10,3 +10,9 @@
 # Configuration files
 confs/*.yaml
 confs/*.yml
+
+# Virtual environment
+virtual-env
+
+# Checkpoints
+.ipynb_checkpoints
