@@ -1,0 +1,937 @@
+,category,file_path,len_words
+0,sales,/content/datartistry/ResumeParser/data/output/sales-Bloomberg_Baldwin Choy_ Sales Rep.txt,551
+1,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HK TV_Katie Lau_Asst Officer.txt,268
+2,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Evelyn Kong_Audit Manager.txt,696
+3,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Mizuho_Desmond Goh_Treasury Ops.txt,643
+4,legal,/content/datartistry/ResumeParser/data/output/legal-Funds_Louis Neo_Legal Counsel.txt,241
+5,compliance,/content/datartistry/ResumeParser/data/output/compliance-Vertex Venture_Ocvia Freriana_Compliance Lead.txt,1090
+6,compliance,/content/datartistry/ResumeParser/data/output/compliance-Xander_Rohit Khandelwal_VP.txt,664
+7,sales,/content/datartistry/ResumeParser/data/output/sales-M&G_Sophia Shi_RM.txt,740
+8,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-United Gain_Isaac Law_Finance Manager.txt,526
+9,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Leo Ng_Audit Manager.txt,644
+10,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Deutsche_Brandon Wong_Corp Fin Associate.txt,620
+11,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Lavender SU_Audit Associate.txt,410
+12,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Lazard_Kenneth Hor_Analyst.txt,883
+13,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Moore Stephens_Yong Chai Li_Senior Audit Associate.txt,284
+14,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Schroder_Simon Choy_Team Lead.txt,536
+15,legal,/content/datartistry/ResumeParser/data/output/legal-Premier Law_Joanna Chew_Lawyer.txt,721
+16,finance,/content/datartistry/ResumeParser/data/output/finance-Goldman_Vanessa Yeung_PC.txt,614
+17,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Boardroom_Shangiri Subramaniam_Share Registration Officer.txt,916
+18,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC_Zhang Wenjing_Sales & BD.txt,574
+19,sales,/content/datartistry/ResumeParser/data/output/sales-Eastspring_Veera Anansongvit_Strategy Manager.txt,459
+20,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Intertrust_Yong Lih Dian_Sr Cosec.txt,553
+21,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Gary Cheng_NAV Supervisor_Hedge.txt,239
+22,finance,/content/datartistry/ResumeParser/data/output/finance-Deloitte_Cai Yu Feng_Audit Senior.txt,419
+23,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Lion Global_Joshua Wee_ Accounting Associate.txt,1168
+24,trustee,/content/datartistry/ResumeParser/data/output/trustee-Tricor_Queenie Yeung_Share Reg Officer.txt,270
+25,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-ESR_Charlie Yeo_Sr Accountant.txt,752
+26,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Masaki Kor_Fund Admin Intern.txt,453
+27,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Satrina Kong_Audit AM.txt,323
+28,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Conifer_Yunis Alimin_SFA_PE.txt,346
+29,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Korchina_Albee Wong_Asst Cosec.txt,309
+30,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Newedge_Yashodha N_Brokerage Analyst.txt,763
+31,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Deutsche_Elainey Shi_Investment Analyst.txt,522
+32,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Shirley Wong_Audit Senior.txt,391
+33,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Estera_Katy Chow_Cosec.txt,335
+34,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Propertylink_Garth Harkins_FC.txt,1002
+35,finance,/content/datartistry/ResumeParser/data/output/finance-Pos Logistics_Norashra Omar_Finance VP.txt,2440
+36,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Pearl Oriental_Au Wing Sze_Cosec Asst.txt,666
+37,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Harneys_Serene Lai_Cosec Officer.txt,287
+38,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Grace Tan_Fund Admin_PE.txt,389
+39,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-5Edwardo.txt,447
+40,sales,/content/datartistry/ResumeParser/data/output/sales-Palgenesis Fund_Stephen Salloum_Strategic Advisor.txt,570
+41,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Sunrise Brokers_Tim Huang_Equity Research Analyst.txt,400
+42,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Goldman_Alex Tang-Cohen_IB Analyst.txt,387
+43,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Sekar ASMARA_Audit Manager.txt,740
+44,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-AIA_Ana H Tse_A&F Associate.txt,656
+45,trustee,/content/datartistry/ResumeParser/data/output/trustee-Boardroom_Syahrina Akhil_Cosec.txt,953
+46,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Khoo+Chong+Wee_Audit Manager.txt,691
+47,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Outpie Travelling_Martin Xu_Founder.txt,621
+48,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Andy Li_Audit Associate.txt,352
+49,sales,/content/datartistry/ResumeParser/data/output/sales-PE Firm_Arun Kumar_Investment Advisory.txt,972
+50,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CDIB_Nicole Sham_Fund Accountant.txt,496
+51,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Aw Zhen Ling_Audit Senior.txt,414
+52,sales,/content/datartistry/ResumeParser/data/output/sales-Bualuang_Piamkwan Lam (Bew)_Equity Sales.txt,704
+53,sales,/content/datartistry/ResumeParser/data/output/sales-BNP_Andrew Lek_AVP.txt,1711
+54,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Tricor_Rachel Lee_Cosec Associate.txt,1008
+55,sales,/content/datartistry/ResumeParser/data/output/sales-Globaleye_Rachelle Johnson_BD Manager.txt,459
+56,finance,/content/datartistry/ResumeParser/data/output/finance-State Street_Anna Lim_Associate.txt,388
+57,sales,/content/datartistry/ResumeParser/data/output/sales-JSTI_Alex Wu_VP.txt,452
+58,legal,/content/datartistry/ResumeParser/data/output/legal-Sidley Austin_Samantha Yu_Legal Assistant.txt,475
+59,sales,/content/datartistry/ResumeParser/data/output/sales-Wintop_Michael Cao_Investment Manager.txt,706
+60,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-LIM Advisors_Patrick Lau_Fund Accountant.txt,448
+61,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Mazars_Ryan Tan_Accounts Asst.txt,237
+62,sales,/content/datartistry/ResumeParser/data/output/sales-AIA_Jirat_Telemarketer.txt,296
+63,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Mirae_SOPHIA TANG_Analyst.txt,398
+64,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Katie Wong_Senior Auditor.txt,736
+65,sales,/content/datartistry/ResumeParser/data/output/sales-Citi_Ivan Leong_VP Inv Advisory.txt,500
+66,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Carol Choi_Senior Audit.txt,475
+67,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Stanley Tam_Senior Audit Manager.txt,513
+68,finance,/content/datartistry/ResumeParser/data/output/finance-Sunrise_Anusha Shashidhar_Pricing Finance.txt,1077
+69,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Ausonio_Lawrence You_Research Analyst.txt,376
+70,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Black Soil_Andy Cheng_VP.txt,672
+71,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_WongHui Ting_PE Fin Analyst.txt,466
+72,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Grant Thornton_Kahlen Lau_Senior Accountant.txt,495
+73,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Morgan Stanley_Lee Si Kai_Ops Analys.txt,608
+74,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-HSBC_Kai Wen Yong_IB Associate.txt,475
+75,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Kelly Wong_Audit Senior.txt,546
+76,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Alliance_Teo Leong Puan_Cosec VP.txt,956
+77,legal,/content/datartistry/ResumeParser/data/output/legal-Lion Trust_Jason Zhong_Compliance Manager.txt,1228
+78,legal,/content/datartistry/ResumeParser/data/output/legal-SFKS Solicitors_Bell Lee_Legal Secretary.txt,378
+79,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Ashley Chiang_Fund Acc_Hedge.txt,674
+80,sales,/content/datartistry/ResumeParser/data/output/sales-RHB_Nicole Chan_Equity Sales.txt,540
+81,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Standard Chartered_Christopher Kaleta_IB Associate.txt,838
+82,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Glory Fund Mgmt_Too Tan Juan_FC.txt,1199
+83,finance,/content/datartistry/ResumeParser/data/output/finance-Sydney Uni_Jack Yan_Principal Auditor.txt,722
+84,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CJ&M_Adrianus_Ops Exec.txt,539
+85,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SCB_Loraine Sim_Fund Svs Manager_Hedge.txt,1440
+86,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-UOB_Thai Wei Ying_Equity Research.txt,384
+87,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Joseph Leung_Audit Senior.txt,603
+88,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Credit Suisse_Simon Sun_Senior Equity Analyst.txt,271
+89,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-First Names Group_Chan Jia Yu_Client Services Associate.txt,760
+90,sales,/content/datartistry/ResumeParser/data/output/sales-CDG Capital_Ghali Kettani_Equity Sales Head.txt,462
+91,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Vinjak Moda_Chloe Tsoi_Accounting Associate.txt,326
+92,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Yuanta Securities_Roy Li_Investment Analyst.txt,493
+93,finance,/content/datartistry/ResumeParser/data/output/finance-Jirnexu_ATIFAH ISHAK_Sr FM.txt,940
+94,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Lasalle IM_Cherish Chung_Admin EA.txt,357
+95,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex Fund Svcs_Monali Hirawat_Financial Accounts Officer.txt,774
+96,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_David Peters_Manager.txt,384
+97,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Asset Mgmt_Cara Zhang_Ops Associate_PE.txt,499
+98,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-KCS_Daisy Chu_Senior Cosec.txt,331
+99,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-RHB_JULIANA CAI_Investment Analyst.txt,377
+100,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-9Ignatius.txt,1017
+101,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Shawn Wong_Fund Accountant.txt,526
+102,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-GS Tan & Co_Penny Low_Audit Account Associate.txt,526
+103,compliance,/content/datartistry/ResumeParser/data/output/compliance-UBS_Shawn Koh_CDD Assurance.txt,436
+104,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Northern Trust_Caslin Lee_Client Svcs Analyst.txt,347
+105,trustee,/content/datartistry/ResumeParser/data/output/trustee-Tenzing Capital_Lee Cai Ling_Accountant.txt,349
+106,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Boardroom_Jane Lo_Acc Associate.txt,259
+107,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Wells Fargo_Johnaton Yew_Sr Fund Acc.txt,323
+108,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Elevation Capital_Fiona Ye_Internet Consumer Analyst.txt,461
+109,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Moore Stephens_Tan Jing Hang_Audit Senior.txt,317
+110,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-AXA_Devesh Vasantlal_Asst Finance Mgr.txt,834
+111,sales,/content/datartistry/ResumeParser/data/output/sales-NUS Risk Mgmt_Shelly Wu_Insti Sales.txt,571
+112,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Zurich Services_Mavis Lam_AM Inv Acc.txt,627
+113,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Cleartrade Exchange_Benson Ho_KYC.txt,544
+114,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Helena He_Senior Auditor.txt,609
+115,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UBS_Rong CHEN_Middle Office Analyst.txt,555
+116,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Knight Frank_Hitendra Gupta_Lead Consultant.txt,418
+117,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Alter Domus_Roy Kim_Fund Accountant.txt,388
+118,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SA Capital_Matthew Goncerzewicz_FD.txt,1059
+119,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Tricor_Angel Lam_Cosec Supervisor.txt,336
+120,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Morgan Stanley_Lucas Goh_IB Analyst.txt,803
+121,sales,/content/datartistry/ResumeParser/data/output/sales-BLD Consulting_Peter Drolet_Director.txt,1064
+122,finance,/content/datartistry/ResumeParser/data/output/finance-Northern Trust_Claire Choong_Trust Acc Associate.txt,752
+123,finance,/content/datartistry/ResumeParser/data/output/finance-Keywise Capital_Alina He_Accounting & Ops Analyst.txt,782
+124,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Osama Shah_M&A Advisory.txt,712
+125,finance,/content/datartistry/ResumeParser/data/output/finance-GE Life_Evon Lim_Group IA Mgr.txt,623
+126,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tricor_Jason Lau_Acc Associate.txt,356
+127,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Rabo Equity_Surbhi Sati_Finance Mgr.txt,369
+128,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-T&T Auto_Tan Zhiheng_Ops Assistant.txt,396
+129,finance,/content/datartistry/ResumeParser/data/output/finance-Macquarie_Catherine Li_Associate Analyst.txt,627
+130,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC_ZAHIRAH IBRAHIM_Sr Portfolio Accountant.txt,458
+131,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Marisca Hosang_Fund Accountant_Mutual.txt,372
+132,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Te Deum_Chai Kar Mun_Accounts Exec.txt,631
+133,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Nigel Lee_Audit.txt,687
+134,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Larry Goh_Fund Controller.txt,443
+135,compliance,/content/datartistry/ResumeParser/data/output/compliance-Asset Management_Allen Zheng_Compliance Senior Manager.txt,1440
+136,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Hafiz Latiff_Fund Acc.txt,516
+137,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tamty McGill_Gary Ngai_HR Analyst.txt,533
+138,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Parthia Fung_Senior Audit Associate.txt,475
+139,compliance,/content/datartistry/ResumeParser/data/output/compliance-China International Capital_Rand Lim_Compliance Associate.txt,501
+140,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CVC_Alan Lo_Finance Manager.txt,509
+141,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Bothini Navaneethan_REIT Officer.txt,781
+142,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Julius Baer_Andy Lee_Equity Analyst.txt,502
+143,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Vistra_Wendy Chang_Cosec Mgr.txt,1321
+144,trustee,/content/datartistry/ResumeParser/data/output/trustee-Equiom_Susan Chan_Trust Admin.txt,342
+145,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-GIC_Tay Soo Eng_SVP.txt,1039
+146,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-AXA_Kenneth Chew_Finance Specialist.txt,421
+147,finance,/content/datartistry/ResumeParser/data/output/finance-BOA_Jason Chan_Treasury PC.txt,771
+148,finance,/content/datartistry/ResumeParser/data/output/finance-STOVVE_Chan Tim Poh_FC.txt,896
+149,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Central Chambers_Ruth Indrani_Cosec.txt,1665
+150,finance,/content/datartistry/ResumeParser/data/output/finance-State Street_Kitty Lai_SFA_PE.txt,600
+151,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Crescent FM_Shirley Lim_VP.txt,1182
+152,sales,/content/datartistry/ResumeParser/data/output/sales-ZACD_Terence Neo_Sr RM.txt,501
+153,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Khoo Lee San_AM.txt,368
+154,finance,/content/datartistry/ResumeParser/data/output/finance-CS_VIVIAN HONG_PC.txt,991
+155,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Minumbra AM_Timothy Knight_Director.txt,863
+156,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Vicky Chan_Audit Senior.txt,441
+157,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Asmita_Nitesh Nepali_Accounts Assistant.txt,307
+158,finance,/content/datartistry/ResumeParser/data/output/finance-Cross Ocean_Boris Iu_Asst FC.txt,1422
+159,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Maurice Lee_Cherye Yip_Accountant.txt,305
+160,sales,/content/datartistry/ResumeParser/data/output/sales-Teletech_Benjamin Lindsay_Senior Consultant.txt,848
+161,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Valerie Wong_Sr Fund Accountant.txt,1506
+162,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOC_Jack Lam_Investment Senior Associate.txt,1195
+163,finance,/content/datartistry/ResumeParser/data/output/finance-Arrow Asia_Fiona Ng_Sr Treasury Analyst.txt,739
+164,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Jaclyn Lee_Audit Senior.txt,575
+165,finance,/content/datartistry/ResumeParser/data/output/finance-HP_Adrian Hew_Acc Team Lead.txt,1626
+166,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Phillip Su_SFA_PE.txt,667
+167,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Islamic Kasim_Tahir Khan_Teacher.txt,360
+168,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Deloitte_Yulius Winarto_Sr Associate.txt,713
+169,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-BNP_Jay Han_Equity Research.txt,524
+170,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Lee Xinfu_Senior Audit Associate.txt,474
+171,finance,/content/datartistry/ResumeParser/data/output/finance-JTB_Chung Yon Jie_Accountant.txt,628
+172,finance,/content/datartistry/ResumeParser/data/output/finance-Deloitte_Aneza Ramzeen_Senior Auditor.txt,791
+173,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Kang Jing Jing_IFS NAV Supervisor_Hedge.txt,653
+174,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-TPS Corp Svcs_Hong Huiying_Cosec Exec.txt,771
+175,secretary,/content/datartistry/ResumeParser/data/output/secretary-Alison Liang_PA.txt,423
+176,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Orangefield_Tam Ooi Lai_Fund Admin_PE Hedge.txt,732
+177,finance,/content/datartistry/ResumeParser/data/output/finance-Red Money_Faizah Hassan_Finance Head.txt,946
+178,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Ng Jing Jie_Audit Associate.txt,404
+179,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-iFast_Shawn Teow_Research Intern.txt,441
+180,sales,/content/datartistry/ResumeParser/data/output/sales-JANA_Sebastian Murphy_BD Exec.txt,634
+181,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CR Capital RE_Angus Lau_Associate.txt,843
+182,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Desmond Kieo_FA_PE.txt,324
+183,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Irena Pavlova_Supervisor_Hedge.txt,499
+184,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JK Capital_Jackie Xu_Research Analyst.txt,423
+185,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Well Smart_Tony Tan_FC.txt,694
+186,admin,/content/datartistry/ResumeParser/data/output/admin-MOS_SYAHRUL FAHIMI BIN ASHAARI_KPI Intern.txt,735
+187,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Toh Chun Hian_AM.txt,765
+188,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-PAMCO_Farhan Mumtaz_Portfolio Mgmt Analyst.txt,721
+189,finance,/content/datartistry/ResumeParser/data/output/finance-Faizura Trading_Sharmila Banu_Accounts Exec.txt,929
+190,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Truston AM_Retnawati_FA_Hedge.txt,648
+191,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-GIC_Choo Huey Shan_VP Finance.txt,711
+192,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC_Melody Mak_Fund Accountant.txt,475
+193,finance,/content/datartistry/ResumeParser/data/output/finance-CITCO_Matthew Phua_Client Accountant.txt,1128
+194,trustee,/content/datartistry/ResumeParser/data/output/trustee-Portcullis_Goh Hui Sin_Trust Admin.txt,846
+195,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Singapore District_Shirlyn Neow_Accountant.txt,624
+196,finance,/content/datartistry/ResumeParser/data/output/finance-Maples_Julie Zhu_Performance Analyst.txt,459
+197,secretary,/content/datartistry/ResumeParser/data/output/secretary-Imperial Pacific_Iris Cheuk_Executive Asst.txt,557
+198,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JPM_Fiona Low_Fund Admin.txt,762
+199,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Ivy Lam_Audit AM.txt,329
+200,finance,/content/datartistry/ResumeParser/data/output/finance-L Capital_Yeo Kang Nian_Finance VP.txt,697
+201,trustee,/content/datartistry/ResumeParser/data/output/trustee-Rockwills_Asmida Yacob_Admin Exec.txt,245
+202,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Lunar Capital_Harris Lo_VP_PE.txt,625
+203,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-YM Entrego_Tan Wei Liang_Corp Advisor.txt,1404
+204,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Greenhill_Robin Seng_IB Associate.txt,564
+205,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HLB_Edward Chim_Auditor.txt,457
+206,compliance,/content/datartistry/ResumeParser/data/output/compliance-Vickers Financial_Ryan Tang_Compliance Officer.txt,312
+207,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Amundi AM_Jansen Ng_Client Servicing Associate.txt,654
+208,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Christine Tsoi_Senior Auditor.txt,466
+209,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Ivyrock_Fiona Tsang_Ops IR_Hedge.txt,520
+210,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Libra Capital_Aaron_Ge_Investment Analyst.txt,424
+211,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-One North_Emmalynn Zhu_Accountant.txt,265
+212,trustee,/content/datartistry/ResumeParser/data/output/trustee-SCB_Peter Nagle_Head of Trustee.txt,926
+213,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Pro 1 Mgmt_Bea Boon Ping_Cosec.txt,465
+214,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Ivan Lim_Audit Senior Associate.txt,298
+215,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Capital Group_Darren Yeo_Research Associate.txt,663
+216,finance,/content/datartistry/ResumeParser/data/output/finance-Blackrock_Eric_Ng_Compliance Officer.txt,1394
+217,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Guotai_Esabella Zhao_Equity Research.txt,251
+218,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sanne_Karen Chan_PE Manager.txt,464
+219,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Associate Consultants_Colia Ho_Sr Cosec.txt,712
+220,finance,/content/datartistry/ResumeParser/data/output/finance-Credit Agricole_Matthew KIM_KYC Analyst.txt,421
+221,finance,/content/datartistry/ResumeParser/data/output/finance-KC Chan_Teh Yee Chun_Auditor.txt,423
+222,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Foord AM_Kavitha Menon_Global Equity Analyst.txt,877
+223,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-UBS_Brian Tong_IB Analyst.txt,617
+224,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Joyce Hao_Audit Associate.txt,471
+225,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deutsche_Anishta Ittoo_Transaction Account TL.txt,1032
+226,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Vicky Lee_Transactions AM.txt,332
+227,admin,/content/datartistry/ResumeParser/data/output/admin-Addleshaw_Treliza Li_Office Manager.txt,2401
+228,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Igor E_Audit Manager.txt,763
+229,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Tan Wei Qin_Audit Senior.txt,1255
+230,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Yap Sok Xuan_Audit Assistant.txt,313
+231,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Wong Zhong Ming_Senior Audit Associate.txt,952
+232,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-MC Corp_Jenni Pham_Cosec Assistant.txt,735
+233,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tianli_Kenneth Ngai_Acc Mgr.txt,515
+234,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Pioneer Corp Svcs_Vivienne Pea_Cosec Senior.txt,607
+235,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Vi Pham_Audit Associate.txt,466
+236,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Agnes Low_Officer_PERE.txt,880
+237,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Duff & Phelps_Richard Chua_Compliance IA VP.txt,1292
+238,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Group M_Jean Ong_Finance Intern.txt,565
+239,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Yu Morikuni_Fund Accountant.txt,705
+240,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Asia Agri_Chew Shek Leong_Group FM.txt,1778
+241,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-UOB AM_Dexter Tiah_Investment Analyst.txt,879
+242,trustee,/content/datartistry/ResumeParser/data/output/trustee-HSBC Trustee_Sylvia Lau_Trust Accountant.txt,207
+243,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Working Capitol_Jessica Tan_FM.txt,741
+244,finance,/content/datartistry/ResumeParser/data/output/finance-Graticule AM_Lisa Ooi_Compliance Associate.txt,1022
+245,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UBS_Gavin Loh_Ops Analyst.txt,550
+246,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JPM_Hao Long_IB Analyst.txt,570
+247,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-EY_Vivi Indra Sari_Cosec AM.txt,125
+248,admin,/content/datartistry/ResumeParser/data/output/admin-Henry Butcher_Nurhafizah_Admin Asst.txt,504
+249,finance,/content/datartistry/ResumeParser/data/output/finance-Brotzeit_Zara Zhang_FP&A.txt,365
+250,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Evalueserve_SHRIMALI Shipra_Sr Equity Research.txt,817
+251,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Catherine Szeto_Audit Senior.txt,743
+252,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Black Soil_Andy Cheng_VP_PE.txt,751
+253,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PAG_Max Lai_Fund Reporting Manager.txt,492
+254,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Tan Hwee Ying_Fund Accountant_Hedge.txt,265
+255,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Augentius_Vicky Tsang_Accountant.txt,149
+256,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Connifer_Christine Low_Fund Acc_PE Hedge.txt,603
+257,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Vallianz_Wesley Yeap_Accounts Exec.txt,311
+258,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Lendlease_Tay Shi Ying_Fund Accountant.txt,791
+259,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-DaVita_Daniel Lim_M&A.txt,561
+260,finance,/content/datartistry/ResumeParser/data/output/finance-Yes & Co_Brian Ho_Asst Accountant.txt,489
+261,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Sanford Bernstein_Manish Agarwal_Sr Research Associate.txt,1019
+262,sales,/content/datartistry/ResumeParser/data/output/sales-Sobha Groupo_Rohan Bhaskar_Head of Investments.txt,1035
+263,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Aditya AM_Athena Ng_Ops AM.txt,723
+264,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Capitaland Fund_Javier Yong_Finance Exec.txt,1654
+265,trustee,/content/datartistry/ResumeParser/data/output/trustee-DBS Trustee_Josephine Fan_BD AVP.txt,784
+266,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Galaxy Entertainment_Eddie Chan_Surveillance Ops.txt,388
+267,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Alibaba_Chester Chow_Cosec Officer.txt,568
+268,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Awy Aw_Audit Manager.txt,653
+269,compliance,/content/datartistry/ResumeParser/data/output/compliance-HSBC_Wilfred Tan_CDD Analyst.txt,385
+270,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Fundbpo_Sam Lam_Fund Accountant.txt,137
+271,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Jingran Liang_Audit Senior.txt,423
+272,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sinowealth_Tan Sze Nee_Accountant.txt,841
+273,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Cheah Zhao Yan_IA Mgr.txt,1499
+274,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Haitong_LI Zhaoyi_Management Accountant.txt,479
+275,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Queensland Inv_James Lee_Inv Accountant_PERE.txt,570
+276,sales,/content/datartistry/ResumeParser/data/output/sales-BOA_Ida Tan_Insti Equity Sales.txt,488
+277,trustee,/content/datartistry/ResumeParser/data/output/trustee-HSBC_Anson Ma_Corp Action Analyst.txt,300
+278,legal,/content/datartistry/ResumeParser/data/output/legal-BTMU_Yuko Takahata_Legal AM.txt,943
+279,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Ascendas India_Jeffrey Tan_IR RE.txt,588
+280,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Willis Cheng_Phoebe Lai_Auditor.txt,657
+281,compliance,/content/datartistry/ResumeParser/data/output/compliance-Aberdeen_Bernice Tan_Compliance Assistant Manager.txt,105
+282,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Taurus Capital_Milroy Anthony_VP.txt,495
+283,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Cheng&Cheng_Lee Cho Kwan_Sr Cosec.txt,268
+284,admin,/content/datartistry/ResumeParser/data/output/admin-Quality Mgmt_Nur Hawa_Admin Officer.txt,908
+285,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-LIM Advisors_Ryan Ko_Fund Analyst.txt,443
+286,finance,/content/datartistry/ResumeParser/data/output/finance-Marsh_Jonathan Goh_Accountant.txt,653
+287,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Conifer_Yap Pei Ling_PE Associate.txt,272
+288,trustee,/content/datartistry/ResumeParser/data/output/trustee-McCabe_Hayden Yun_Cosec Associate.txt,274
+289,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Lemmuel Ang_SFA.txt,649
+290,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Wee Xin Yuh_Audit Senior.txt,389
+291,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners_Mary Pao_Financial Analyst.txt,411
+292,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-BOA_Flora Stekelorom_IB.txt,718
+293,finance,/content/datartistry/ResumeParser/data/output/finance-British Malayan_Patricia Sum_Trust Accountant.txt,757
+294,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-EW Dev_Agnes Sit_Cosec.txt,705
+295,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Alliance Bank_Teo Leong Puan_Cosec VP.txt,956
+296,legal,/content/datartistry/ResumeParser/data/output/legal-SGX_Esther Lee_Regulatory Senior Associate.txt,542
+297,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-10Jonas.txt,700
+298,finance,/content/datartistry/ResumeParser/data/output/finance-BFAM Partners_Connie Phillips_Finance Officer.txt,1044
+299,sales,/content/datartistry/ResumeParser/data/output/sales-Expat Group_Puneet Narulla_SVP.txt,2460
+300,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-ADV Partners_Sherry Huang_Winter Analyst.txt,807
+301,legal,/content/datartistry/ResumeParser/data/output/legal-Partners Group_Cheryl Cheong_Legal Counsel.txt,97
+302,finance,/content/datartistry/ResumeParser/data/output/finance-Ken Chan_Rayman Lui_Audit Associate.txt,315
+303,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Arisaig_Tan Wei Ru_Dealing Ops.txt,838
+304,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Qiaowai_Dexter Dong_Proj Analyst.txt,550
+305,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Upskills_Yang Yue_Finance IT Consultant.txt,233
+306,sales,/content/datartistry/ResumeParser/data/output/sales-Bloomberg_Aimee Xuan Qi_FI Valuation.txt,583
+307,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Macquarie_Ricky Lam_Equity Research.txt,421
+308,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOCHK_Charmaine Cheng_Senior Auditor.txt,377
+309,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SCOR Global_Mingxuan Fu_Research Intern.txt,576
+310,sales,/content/datartistry/ResumeParser/data/output/sales-SS&C_Natalia Ady_AVP Ops.txt,1621
+311,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-LKH_Crystal Yu_Cosec.txt,290
+312,finance,/content/datartistry/ResumeParser/data/output/finance-Lim Advisors_Ryan Ko_Fund Analyst.txt,443
+313,sales,/content/datartistry/ResumeParser/data/output/sales-RHB_Stephanie Wee_FI Sales.txt,483
+314,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-LaSalle_Lucas Tan_Associate.txt,632
+315,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Cheng & Cheng_Lui Tsz Yung_Cosec Asst.txt,349
+316,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNP_Dipak Karthikesan_Fund Acc_Hedge.txt,841
+317,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SIN Capital_Bennette Ng_Finance Director.txt,1253
+318,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Blackrun_Sasha Bao_Inv Analyst.txt,545
+319,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Prabu Manicka_Audit Associate.txt,650
+320,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-CIMB_Jessalynn Chen_Equity Research Associate.txt,381
+321,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-TMF_Cherry Hui_Cosec Exec.txt,253
+322,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-YTL Hotel_Belinda Eoon_Inv Analyst.txt,556
+323,finance,/content/datartistry/ResumeParser/data/output/finance-IDG_Joanne Kwok_Fund Acc_PE.txt,430
+324,finance,/content/datartistry/ResumeParser/data/output/finance-JP Morgan_Jeffrey Balbin_Fund Acc Associate.txt,762
+325,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-ShawSpring_Jerry Feng_Inv Intern.txt,510
+326,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-CSI Properties_Charles Cheng_Inv Mgr.txt,550
+327,legal,/content/datartistry/ResumeParser/data/output/legal-Carat T_Chi Wei Chin_CEO.txt,579
+328,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-FundBPO_Anna Lim_SFA_PE.txt,411
+329,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Ocean Blue_Jenny Yuen_FC.txt,663
+330,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Connifer_Julian Ng_Fund Accountant.txt,343
+331,finance,/content/datartistry/ResumeParser/data/output/finance-Vistra_Mingson Chi_Sr Accountant.txt,308
+332,finance,/content/datartistry/ResumeParser/data/output/finance-SMU_Yap Cin Yin_Senior Accounts Exec.txt,1193
+333,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Deutsche_Peng Chen_IB Analyst.txt,544
+334,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Equiom_Cyann So_Trust Officer.txt,581
+335,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Fidelity Inv_John Wang_Equity Associate.txt,832
+336,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Phoon Min Chee_Audit Manager.txt,499
+337,sales,/content/datartistry/ResumeParser/data/output/sales-NBF Capital_Harish Patel_Associate Director.txt,1253
+338,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Maria Aguirre_Audit Manager.txt,985
+339,finance,/content/datartistry/ResumeParser/data/output/finance-Brown Brothers_Kay Wong_Inv Svcs Sup.txt,649
+340,sales,/content/datartistry/ResumeParser/data/output/sales-Shurooq_Haitham Essa_Portfolio Manager.txt,1036
+341,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC_DARRYL OH_Manager.txt,706
+342,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-MUFJ_Wilson Tan_Deputy Head_Hedge PE.txt,961
+343,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Alpha_Phua Li Ting_Finacial Analyst.txt,1016
+344,admin,/content/datartistry/ResumeParser/data/output/admin-Guard Capital_Godiva Tse_Office Manager.txt,378
+345,legal,/content/datartistry/ResumeParser/data/output/legal-DS Cheung_Kelvin Hok_Paralegal.txt,701
+346,legal,/content/datartistry/ResumeParser/data/output/legal-State Street_Sackville Leung_Legal Consel.txt,617
+347,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Chua Xin Ling_Audit Senior.txt,688
+348,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JPM AM_Enson Fung_Fund Acc Analyst_Hedge.txt,326
+349,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Crowe Howarth_Tay Kai Yuan_Auditor.txt,376
+350,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Tom Group_Liz Tsang_Sr Cosec.txt,365
+351,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Augentius_Christine Chen_FA_PE.txt,488
+352,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Joyner Kee_Fund Acc_Hedge.txt,731
+353,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Midas_Luying Zeng_Equity Analyst.txt,473
+354,compliance,/content/datartistry/ResumeParser/data/output/compliance-KPMG_Jeremy+Foo_Compliance AM.txt,467
+355,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Oriental Patrion_Walter Woo_Research Analyst.txt,1132
+356,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Schroder_Ng Wei Feng_Ops Onboarding.txt,794
+357,sales,/content/datartistry/ResumeParser/data/output/sales-Pioneer Investments_Cherry Zhu_Sales Director.txt,473
+358,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Christine Lim_Fund Acc.txt,765
+359,secretary,/content/datartistry/ResumeParser/data/output/secretary-Prophet_Maggie Chuang_Exec Sec.txt,591
+360,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JP Morgan_Eliza Tay_IB Analyst.txt,676
+361,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Lydia Vu_Audit Senior.txt,595
+362,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_John Leung_Mgr.txt,301
+363,finance,/content/datartistry/ResumeParser/data/output/finance-HLB_Claudia Chu_AM.txt,736
+364,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Vistra_Michelle Cheong_Cosec AM.txt,2288
+365,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Rachel David_Ops Analyst.txt,381
+366,trustee,/content/datartistry/ResumeParser/data/output/trustee-HSBC_Joy Chua_Trust Admin.txt,551
+367,compliance,/content/datartistry/ResumeParser/data/output/compliance-Luminance Fund_Saleem Lalani_Research Associate.txt,1415
+368,secretary,/content/datartistry/ResumeParser/data/output/secretary-HSBC_Joan Wong_PA.txt,908
+369,compliance,/content/datartistry/ResumeParser/data/output/compliance-Xander_Erwina Lau_Finance Compliance Executive.txt,647
+370,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Mckenzie Lim_SFA_Hedge.txt,1224
+371,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Helena He_Audit Senior.txt,609
+372,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Eastspring Investments_Mala_Secretary.txt,930
+373,sales,/content/datartistry/ResumeParser/data/output/sales-AF&F_Or Kiu Fan_Cosec.txt,111
+374,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Morgan Stanley_Daniel Ng_Equity Research Analyst.txt,735
+375,secretary,/content/datartistry/ResumeParser/data/output/secretary-Noble Resources_Sandy Tong_PA.txt,733
+376,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Terence Teo_Sr Fund Acc.txt,211
+377,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Dong Xing_Catherine Zhang_Equity Research Intern.txt,669
+378,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-TIH_Tan Junguang_Inv Analyst.txt,1038
+379,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Millenium Mgmt_Leoh Chay Hoon_Finance.txt,832
+380,sales,/content/datartistry/ResumeParser/data/output/sales-Invesco_Darius Ang_Sales Manager.txt,499
+381,trustee,/content/datartistry/ResumeParser/data/output/trustee-PWC_David Chiang_Sr Tax Consultant.txt,302
+382,compliance,/content/datartistry/ResumeParser/data/output/compliance-Blackrock_Eric_Ng_Compliance Officer.txt,1394
+383,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Citibank_Joan Low_Fund Acc Supervisor.txt,942
+384,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tenzing Capital_Gwee Gin Lynn_Fund Admin.txt,266
+385,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Rhicon_Jevon Ng_Trade Ops Acc.txt,829
+386,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-PKF Cap_Leow Poh Leng_Cosec Manager.txt,698
+387,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-1Amy.txt,388
+388,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-One Asia_Bryce Lim_HF Analyst Intern.txt,507
+389,sales,/content/datartistry/ResumeParser/data/output/sales-Westview Capital_Hamed Abu-Zaher_Principal.txt,1319
+390,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-RSM_Le Nguyen Minh Uyen_TL.txt,512
+391,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Sia Edith_Audit Manager.txt,454
+392,sales,/content/datartistry/ResumeParser/data/output/sales-Pyramids Capital_Hussein Selim_Sales Director.txt,417
+393,finance,/content/datartistry/ResumeParser/data/output/finance-Prudential_Owen Yun_Accountant.txt,345
+394,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Maples_Beatrice Wong_FA_Hedge PE.txt,409
+395,secretary,/content/datartistry/ResumeParser/data/output/secretary-Ecrent_May Liu_PA.txt,757
+396,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Unigestion_Eugene Wee_Fund Analyst_PE.txt,451
+397,admin,/content/datartistry/ResumeParser/data/output/admin-Career Centre_AMIRUL HAMZA ABDULLAH_BD Exec.txt,530
+398,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Mass Express_Justin Seah_Accounts.txt,618
+399,compliance,/content/datartistry/ResumeParser/data/output/compliance-KPMG_Savita Sharma_Forensic Assistant Manager.txt,566
+400,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-SMBC_Keith Woo_IB Associate.txt,553
+401,sales,/content/datartistry/ResumeParser/data/output/sales-State Street_Matthew Ng_Insti FX Sales.txt,607
+402,legal,/content/datartistry/ResumeParser/data/output/legal-Mizuho_Ong Wee Kai_Legal Counsel.txt,1376
+403,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Lynn Wee_Audit Manager.txt,568
+404,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-4Dickson.txt,489
+405,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Centurion_Priscilla Tan_FC.txt,1697
+406,finance,/content/datartistry/ResumeParser/data/output/finance-Heptagon_Winnie Yap_Finance Director.txt,1767
+407,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Hopewell_Theo Chan_Financial Analyst.txt,578
+408,sales,/content/datartistry/ResumeParser/data/output/sales-Alpha Carinae_Trevor Jarret_Consulting Director.txt,1977
+409,finance,/content/datartistry/ResumeParser/data/output/finance-HKU_Victor Siu_Sr Accountant.txt,1292
+410,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-China Merchants_Eva Ng_Associate.txt,509
+411,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Shee Zhi Xing_FA_Hedge.txt,381
+412,finance,/content/datartistry/ResumeParser/data/output/finance-Deloitte_Bingqi Wang's_Audit Senior Associate.txt,1061
+413,finance,/content/datartistry/ResumeParser/data/output/finance-Maples_Jeffy Wang_SFA_PE Hedge.txt,384
+414,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Phillip Capital_Ng Hui Hui_Finance Exec.txt,469
+415,admin,/content/datartistry/ResumeParser/data/output/admin-Evolve_Azren Natasha_Admin Exec.txt,645
+416,finance,/content/datartistry/ResumeParser/data/output/finance-7Giraffe.txt,883
+417,legal,/content/datartistry/ResumeParser/data/output/legal-Trusts_Yolande Wan_Legal Counsel.txt,273
+418,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Olivia Shen_Audit Senior.txt,672
+419,finance,/content/datartistry/ResumeParser/data/output/finance-Groupon_Sophie Peng_Senior Financial Analyst.txt,1061
+420,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Shinewing_Marcus Cheung_Accountant.txt,473
+421,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-2Ben.txt,520
+422,finance,/content/datartistry/ResumeParser/data/output/finance-Deloitte_Jonathan Kong_Senior Audit_funds.txt,881
+423,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Heemin Capital_Sixun Ma_PE Senior Analyst.txt,593
+424,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JPM_Trina Lee_SFA_Hedge.txt,681
+425,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-China Merchants Bank_Gloria Yang_Fund Accountant.txt,322
+426,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Intertrust_Yeung Wang Tat_Cosec Asst.txt,406
+427,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Equiom_Fion Tan_Cosec AM.txt,529
+428,trustee,/content/datartistry/ResumeParser/data/output/trustee-Julius Baer_Sheena Tan_ARM.txt,651
+429,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Eugene Chng_FA_Hedge.txt,545
+430,compliance,/content/datartistry/ResumeParser/data/output/compliance-Graticule AM_Lisa Ooi_Compliance Associate.txt,1022
+431,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-GF Securities_Spencer He_Intern.txt,613
+432,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Chuah Ying Sze_Audit AM.txt,635
+433,finance,/content/datartistry/ResumeParser/data/output/finance-Maples_Kasturi Majumdar_VP.txt,1248
+434,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JLL_Chelsea Cai_Research Head.txt,431
+435,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sesotec_Aderine Pong_FC.txt,1969
+436,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-SMBC_Terence Chew_Property Finance.txt,485
+437,sales,/content/datartistry/ResumeParser/data/output/sales-Gateway Partners_Won Seuk Jang_VP.txt,694
+438,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Global Tech_Michael Li_Investment Analyst.txt,724
+439,legal,/content/datartistry/ResumeParser/data/output/legal-Fullerton FM_Dexter_Hou_Legal Counsel.txt,1117
+440,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Kris Capital_Mrinal Kapoor_Asst PM.txt,733
+441,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-YXA AM_ZHANG YUXI_Analyst Assistant.txt,383
+442,finance,/content/datartistry/ResumeParser/data/output/finance-RSM_Lim Tze May_Audit Senior.txt,541
+443,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JPM_Mei Lin Pung_Account Control Analyst.txt,439
+444,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Custom House_Stella Chin_Fund Accountant.txt,714
+445,sales,/content/datartistry/ResumeParser/data/output/sales-PT Mandiri_Miranti_Rostian_Insti Sales AVP.txt,301
+446,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Top Global_Megan Chia_Accounts Exec.txt,1000
+447,finance,/content/datartistry/ResumeParser/data/output/finance-Deloitte_Jason Chan_Audit AM.txt,408
+448,trustee,/content/datartistry/ResumeParser/data/output/trustee-Lawrence Lee_Letchumi_Legal Intern.txt,723
+449,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deliciae_En Kai Joh_Accounts Exec.txt,541
+450,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HKICPA_Jeff Au_Helper.txt,292
+451,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Eddie Lin_FA_Hedge.txt,569
+452,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Credit Suisse_Joy Zhou_IB Analyst.txt,699
+453,finance,/content/datartistry/ResumeParser/data/output/finance-MS_Victor Li_FI PC.txt,725
+454,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Lu Yu_Audit Senior Associate.txt,380
+455,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Capita_Alex Ashby_Asst Consultant.txt,786
+456,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Goldman_Sef Chin_Equity Research Analyst.txt,574
+457,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Schroders_Tan Li Ying_Portfolio Recon.txt,535
+458,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Baba Wins_Jeremy Tan_Restaurant Manager.txt,864
+459,sales,/content/datartistry/ResumeParser/data/output/sales-FundedHere_Amanda Tay_Head Investor Network.txt,1226
+460,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Ocean Equity_Angus Gu_Equity Analyst.txt,407
+461,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Simon Kam_Audit AM.txt,760
+462,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Zhenghe Capital_Rainbow Chen_Office Manager.txt,733
+463,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Maxpro_Andrew Lee_Investment Manager.txt,704
+464,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-JPM_Katharine Chew_Cosec Analyst.txt,1073
+465,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Citi_Yeo Hui Koon_Proj Mgr.txt,1112
+466,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Casey Lann Creencia_SFA.txt,1517
+467,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Cai Yu Feng_Audit Senior.txt,419
+468,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Elevation Capital_Fiona Ye_Equity Research.txt,452
+469,finance,/content/datartistry/ResumeParser/data/output/finance-VMS_Sharon Poon_Fund Accountant.txt,607
+470,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-KCS_Emma Tsang_Sr Cosec Officer.txt,321
+471,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Ascendas_Jeffrey Tan_Real Estate Analyst.txt,588
+472,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-KCLG_Sheyla Lau_Cosec Trainee.txt,242
+473,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CACEIS_Billy Lun_Fund Accountant.txt,548
+474,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Huang Qinning_Sr Fund Acc.txt,331
+475,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Equiom_Isaac Yim_Cosec AM.txt,612
+476,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Vincent Chueng_Winnie Wong_Cosec Asst.txt,343
+477,legal,/content/datartistry/ResumeParser/data/output/legal-Essensuals_Brisels Sin_PA.txt,278
+478,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Baring_Amy Tay_Finance Manager.txt,622
+479,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Macquarie_Sunny Chow_Senior Equity Research Analyst.txt,518
+480,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Emily Wong_Sr Fund Acc.txt,824
+481,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-HSZ_Dennis Chien_Analyst.txt,669
+482,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tricor_Chong Ka Chun_Acc Officer.txt,319
+483,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TR Capital_Summer Han_Asst FM.txt,626
+484,finance,/content/datartistry/ResumeParser/data/output/finance-Xander_Sia Janjuan_Finance Executive.txt,870
+485,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Lau Eng Hooi_Audit Manager_PERE.txt,486
+486,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOA_Francois Dumont_Settlement Analyst.txt,938
+487,sales,/content/datartistry/ResumeParser/data/output/sales-Shenwan_Andy Tian_Equity Sales.txt,533
+488,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-ICBC_ZENG SIQI_Senior Officer.txt,118
+489,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-PKF_Amanda Siu_Sr Officer.txt,798
+490,admin,/content/datartistry/ResumeParser/data/output/admin-Lasalle IM_Cherish Chung_Admin EA.txt,357
+491,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Shanghai Pudong_Kitty Li_Associate.txt,434
+492,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Jeffrey Li_Audit Senior.txt,617
+493,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Mornington_ADELINE KHOO_Ops Admin Manager.txt,1104
+494,admin,/content/datartistry/ResumeParser/data/output/admin-Tpaay_Farrahdiana_Admin.txt,642
+495,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Lee Tze Choong_Audit Manager.txt,550
+496,finance,/content/datartistry/ResumeParser/data/output/finance-FCL Mgmt_Stacia Heng_Sr Accounts.txt,1281
+497,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Alter Domus_Simon Yuen_Fund Acc_PE.txt,448
+498,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Amreeta Gujraty_AVP_Hedge.txt,721
+499,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Credit Suisse_Sebastien Perez Raub_Fund Services Consultant.txt,931
+500,compliance,/content/datartistry/ResumeParser/data/output/compliance-PWC_Olivia Peter_Regulatory Manager.txt,678
+501,trustee,/content/datartistry/ResumeParser/data/output/trustee-Equiom_Emily Yap_Trust Admin Manager.txt,2062
+502,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNP_Joy Seah_Fund Accountant.txt,404
+503,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Ng Yee Lu_Audit Manager.txt,556
+504,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Anna Chan_Senior Associate.txt,427
+505,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-KPMG_Chen Ziyang_Sr Associate.txt,515
+506,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Foo Nyuk Min_FA_Hedge.txt,657
+507,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Mohan MC_Shruthi HV_Cosec Exec.txt,663
+508,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Acion_Jayde Yip_Finance Director.txt,1636
+509,finance,/content/datartistry/ResumeParser/data/output/finance-Bupa_Lucky Saraf_Finance Analyst.txt,745
+510,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Justina Low_Audit Senior.txt,387
+511,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Gaw Capital_Mandy Wong_FM.txt,858
+512,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Unity_Kelvin Lim_M&A Associate.txt,870
+513,finance,/content/datartistry/ResumeParser/data/output/finance-Lynks_Sherry Chui_Sr Acc Officer.txt,419
+514,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners Group_Joseph Tan_PE Analyst.txt,440
+515,finance,/content/datartistry/ResumeParser/data/output/finance-GE_Han Peiling_Group IA.txt,370
+516,sales,/content/datartistry/ResumeParser/data/output/sales-Morningstar_Wenyin Xu_Insti Sales.txt,577
+517,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNP_Karen Chan_Accounts Officer.txt,496
+518,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SRE Capital_Shendia_Ops Exec.txt,708
+519,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Equinoxe_Yeo Ling Ling_Account Manager_PE Hedge.txt,832
+520,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Penny Lim_Risk AM.txt,1002
+521,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Jefferies_Karen Chan_VP.txt,588
+522,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Rabobank_Saw Ying Ying_Research Intern.txt,438
+523,sales,/content/datartistry/ResumeParser/data/output/sales-Pinnacle_Sakhitha Abeysekera_Investments Manager.txt,861
+524,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-8Holly.txt,765
+525,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSL AM_Prisci Leung_FM.txt,758
+526,finance,/content/datartistry/ResumeParser/data/output/finance-Man Loong_Brian Wong_Acc Asst.txt,202
+527,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HLB Hodgson_Florence Chau_Audit Associate.txt,367
+528,legal,/content/datartistry/ResumeParser/data/output/legal-Eversheds_Nicole Lam_Paralegal.txt,627
+529,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Apex_Percy Wong_Cosec.txt,355
+530,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Liu Yiqing_Senior Audit Associate.txt,679
+531,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Nexus_Edwin Tam_Ops Manager.txt,514
+532,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-3M_Polo Yu_Finance Manager.txt,545
+533,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-STI_Liz Wu_Investment Analyst.txt,593
+534,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNP_Henry Ng_Outsourcing Controls Analyst.txt,524
+535,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-6Faye.txt,377
+536,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Capitamall_Hanni Lee_Finance Exec.txt,332
+537,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Goldman_Lincoln Kong_Investment Research Analyst.txt,571
+538,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Asian Carats_Yash Timbadia_Finance Exec.txt,617
+539,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Lau Pui Yin_Audit Senior.txt,370
+540,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Oxford Economics_Derek Yap_Business Development Manager.txt,639
+541,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Z Energy_Alyssa Ong_Accounts Assistant.txt,532
+542,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-BOA_Ho Kun Lin_Senior Analyst.txt,528
+543,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Indea Capital_Vaibhav Saharan_Analyst.txt,668
+544,trustee,/content/datartistry/ResumeParser/data/output/trustee-HSBC_Huijun Goh_Trust RM.txt,752
+545,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_LI MENGTIAN_Fund Acc_Hedge.txt,426
+546,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Biao Fu_Deal Intern.txt,591
+547,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-GSA_Lawrence Chan_Associate.txt,524
+548,sales,/content/datartistry/ResumeParser/data/output/sales-Morgan Stanley_Kai Berlick_Client Svcs Mgr.txt,986
+549,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-KPMG_Terry Khoo_Transfer Pricing Associate.txt,471
+550,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sequoia_Maggie Ma_Fund Accountant.txt,1864
+551,sales,/content/datartistry/ResumeParser/data/output/sales-Fifty One_Zubair Imran_ME Sales.txt,737
+552,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Vicky Lu_Audit Mgr.txt,311
+553,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-DBS_Jay Peh_IB Associate.txt,412
+554,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Hayley Woo_Audit Senior.txt,449
+555,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-PWC_Mark Balakrishnan_Corp Fin Manager.txt,466
+556,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Mazars_Winki Lee_Cosec Asst.txt,677
+557,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Aesop_Laissa Wong_Finance Coordinator.txt,313
+558,finance,/content/datartistry/ResumeParser/data/output/finance-Northern Trust_Samuel Chan_Accountant.txt,412
+559,sales,/content/datartistry/ResumeParser/data/output/sales-Reuters_Perline Tan_Regional Sales.txt,1165
+560,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Yongtuo_Shuqing Duan_Sr Auditor.txt,578
+561,finance,/content/datartistry/ResumeParser/data/output/finance-Festo_Jerald Ling_FM.txt,690
+562,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_ANTHONY LAM_Audit Senior.txt,577
+563,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Trafigura_Christine Seet_Cosec.txt,710
+564,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Gabriel Kwan_Senior Auditor.txt,584
+565,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Mizuho_Bao Zekun_Graduate Analyst.txt,1
+566,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-CDB_Su Bozhang _Management Trainee.txt,618
+567,legal,/content/datartistry/ResumeParser/data/output/legal-Shook Lin_Ng Aik Kai_Lawyer.txt,885
+568,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Orient Finance_Hannah Cheung_Associate.txt,452
+569,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Deng Weiqi_Audit Senior.txt,467
+570,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sailing Capital_James Zhang_Senior Associate.txt,972
+571,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Zhongtai_Weile Chen_Equity Research Assistant.txt,648
+572,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-RSM_Nursyafiqah_Senior Auditor.txt,794
+573,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Li & Fung_Anthony Ng_Corp Fin.txt,578
+574,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Kluka Kate_SFA_Hedge.txt,1392
+575,finance,/content/datartistry/ResumeParser/data/output/finance-Manulife_Kenneth Lin_Manager.txt,892
+576,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Vincent Lim_Audit Associate.txt,470
+577,finance,/content/datartistry/ResumeParser/data/output/finance-Bernhard Schult_Eric Yu_Asst FM.txt,774
+578,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Seres AM_Kate Chan_Ops Head.txt,1036
+579,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-CICC_Aaron Chao_Research Analyst.txt,197
+580,finance,/content/datartistry/ResumeParser/data/output/finance-Genting_Loh Jia Yi_Asst FM.txt,433
+581,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Verdant Capital_Kit Tong Tse_Finance Manager.txt,643
+582,finance,/content/datartistry/ResumeParser/data/output/finance-Citi_Yang Shuet Jing_Performance Analyst.txt,629
+583,sales,/content/datartistry/ResumeParser/data/output/sales-Al Mal Capital_Nader El Boustany_BD Manager.txt,802
+584,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Lan Yuguang_Audit Manager.txt,510
+585,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-KPMG_Andrew Chang_Corp Fin Sr Assoc.txt,560
+586,finance,/content/datartistry/ResumeParser/data/output/finance-BNYM_Emily Wong_Sr Fund Acc.txt,824
+587,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Uber_Yanting Wang_Ops Logistics Manager.txt,564
+588,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Ellen Wang_Tax Accountant.txt,417
+589,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Fullerton FM_Martin Lui_Fund Admin Head.txt,2427
+590,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-New Choice Acc_Fannie Lai_Sr Accounts Clerk.txt,277
+591,sales,/content/datartistry/ResumeParser/data/output/sales-Dominion Funds_HASSAN HANNOUF_Regional Head.txt,282
+592,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HLB_Kelly Wong_Auditor.txt,412
+593,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-CLP_Kristen Cheung_Cosec Officer.txt,455
+594,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Quam Capital_Ray Yeung_Corp Fin Manager.txt,2193
+595,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Credit Suisse_Abdul Muhsin_Business Analyst.txt,462
+596,finance,/content/datartistry/ResumeParser/data/output/finance-ARA_Tay Hui Yan_Assistant FM.txt,969
+597,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Paulson&Co_Ruby Shiu_Office Manager.txt,475
+598,sales,/content/datartistry/ResumeParser/data/output/sales-Probiz Capital_Fasiha Shaikh_BD Investment Director.txt,1568
+599,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Changi Airport_Lim Wei Xiang_Corp Fin Manager.txt,376
+600,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Gerald Tan_Fund Accountant.txt,290
+601,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Infinity Assurance_Ong Zhihui_Audit Associate.txt,246
+602,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-3Carrie.txt,476
+603,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Equiom_Candy Chan_Cosec Officer.txt,572
+604,compliance,/content/datartistry/ResumeParser/data/output/compliance-PWC_Dave Heng_SM Compliance.txt,1218
+605,trustee,/content/datartistry/ResumeParser/data/output/trustee-Societe Generale_CINDY TAN_Director.txt,814
+606,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Chris Man_Audit Senior Associate.txt,453
+607,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UOB_Loo Jian Yeu_Fund Admin.txt,330
+608,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-IRAS_Romeo Tan_Tax.txt,387
+609,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CIM_Nicole Shen_Supervisor_Hedge PE.txt,1037
+610,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Regent Capital_Joni Hou_Manager.txt,525
+611,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Legacy Advisors_Annie Wong_Inv Ops Associate.txt,732
+612,legal,/content/datartistry/ResumeParser/data/output/legal-Brightoil Petroleum_Rebecca Andersen_Senior Legal Counsel.txt,2487
+613,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Total Care_Yvette Jiang_Accounts Intern.txt,509
+614,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Sullivan Bille_Tracy Yim_Accountant.txt,308
+615,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Leung Yan Kin_Tax Accountant.txt,445
+616,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Egambaram Arun_FM.txt,720
+617,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Tan Tong How_Account Manager.txt,792
+618,finance,/content/datartistry/ResumeParser/data/output/finance-Mapletree_Tang Yue Feng_Group Finance.txt,619
+619,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNP_Natalia IP_Fund Accountant_Hedge PE.txt,811
+620,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Micron Semiconductor_Sim Shing Hao_Admin.txt,464
+621,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UBS_Ella Li_Fund Acc_Hedge.txt,772
+622,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Maxdo_Qilin Yang_Investment Analyst.txt,324
+623,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Chuah Zhe Yuan_Audit Manager.txt,448
+624,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Foong Wan Ching_Audit Senior.txt,719
+625,admin,/content/datartistry/ResumeParser/data/output/admin-Adecco_AKALILI BAZILAH_Admin.txt,392
+626,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Chen Jia Jin_Auditor.txt,507
+627,sales,/content/datartistry/ResumeParser/data/output/sales-Proterra_Arif SIDHARTA_PE Associate.txt,557
+628,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Stenvall Skld_Cai Xi_IB Senior Associate.txt,1593
+629,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-APS AM_Lee Shan Shan_Client Services Manager.txt,767
+630,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Aglaia IM_Subhashini Gurumurthy_Sr Investment Analyst.txt,646
+631,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Credit Suisse_Aaron Zhang_Research Associate.txt,442
+632,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CACEIS_Dan Ng_Sr Fund Acc.txt,562
+633,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Jewel Tran_Audit Manager.txt,803
+634,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Dymon_Allen Liu_Research Analyst.txt,547
+635,sales,/content/datartistry/ResumeParser/data/output/sales-MUFJ_Elle Huang_VP Insti Sales.txt,945
+636,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Matcham Capital_Andy Ling__Finance Ops.txt,636
+637,finance,/content/datartistry/ResumeParser/data/output/finance-Alpadis_Laurent Lapaire_Accountant.txt,378
+638,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Goldman Sachs_Goldie Chang_Research Analyst.txt,538
+639,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Foo Kon Tan_Charmaine Seah_Audit Associate.txt,437
+640,legal,/content/datartistry/ResumeParser/data/output/legal-Equis Funds_Vignesh Bandi_Legal Counsel.txt,276
+641,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-SCB_Zheng Yangqi_AD.txt,1015
+642,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-S&P_Ellen Li_Credit Analyst.txt,670
+643,finance,/content/datartistry/ResumeParser/data/output/finance-JD Finance_Hao Wei_Founder.txt,607
+644,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Timothy Holdings_Sheila Octania_Accounts Exec.txt,406
+645,sales,/content/datartistry/ResumeParser/data/output/sales-OCBC_Evan Yah_BD SM.txt,1143
+646,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Greenhill Cogent_Kevin Yap_IB Analyst.txt,537
+647,compliance,/content/datartistry/ResumeParser/data/output/compliance-Intertrust_Claire_Tang_Compliance Administrator.txt,568
+648,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-NFTrinity Capital_Jacky Su_Sr Research Analyst.txt,558
+649,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JPM_Nicholas Tan_KYC Analyst.txt,383
+650,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-GIC_Benjamin Chia_Business Analyst.txt,725
+651,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-OCBC_Tiew Geok Ting_Intern.txt,439
+652,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Gain Capital_Celine Seah_FM.txt,845
+653,finance,/content/datartistry/ResumeParser/data/output/finance-State Street_Victoria Kikhard_Inv Svcs Mgr_PE.txt,933
+654,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Alliance_Teo Leong Puan_Cosec VP.txt,956
+655,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Jackie Au_Audit Mgr.txt,262
+656,sales,/content/datartistry/ResumeParser/data/output/sales-Gemopolis_Pasachol_HR Project Assistant.txt,565
+657,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Vincent Chong_SFA_Mutual Hedge.txt,620
+658,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Bright Ruby_LI YULONG_Investment Manager.txt,445
+659,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Wellchamp_Vivian Lau_SFA_Hedge.txt,654
+660,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Cathay_Emma Tsui_Flight Attendant.txt,496
+661,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Jun Qi_Audit AM.txt,615
+662,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JPM_Yashen Zhang_Equity Research Associate.txt,486
+663,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-BDO_Karen Ong_Sr Cosec.txt,537
+664,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Sheng Tai_So Ying Wong_Cosec.txt,318
+665,sales,/content/datartistry/ResumeParser/data/output/sales-Schroder_Jenny Nguyen_BD Manager.txt,521
+666,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Edwin Au Yeung_Senior Fraud Accountant.txt,828
+667,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Gervan Biz_Elycia Ang_Sr Cosec.txt,1267
+668,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Kelvin Yu_Audit Senior.txt,424
+669,sales,/content/datartistry/ResumeParser/data/output/sales-Religare_Sid Dadlani_MENA CEO.txt,1147
+670,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Iyer_Ku Cheuk Tung_Associate.txt,227
+671,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SCB_Rebecca Deng_Senior IA Manager.txt,884
+672,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Industrial Bank_Hui FAN_Investment Manager.txt,693
+673,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HMGC_Smriti Gurung_Accountant.txt,432
+674,sales,/content/datartistry/ResumeParser/data/output/sales-Aviva_Tan Keng Tiong_BD Associate.txt,1030
+675,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Celine You_AVP.txt,1053
+676,sales,/content/datartistry/ResumeParser/data/output/sales-First Gulf Equity_Elie Chalouhi_Founder.txt,710
+677,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Elpis Capital_Patrick Lam_Ops Head.txt,677
+678,sales,/content/datartistry/ResumeParser/data/output/sales-State Street_Joseph Falvella_PE Sales.txt,1240
+679,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Rockwills_Jermin Koh_Accounts Asst.txt,409
+680,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Partners Group_Hafiz Latiff_Fund Accountant.txt,516
+681,trustee,/content/datartistry/ResumeParser/data/output/trustee-BEA_Annice Yeung_Trust Asst.txt,0
+682,finance,/content/datartistry/ResumeParser/data/output/finance-Columbia RE_Rayven Chee_Investment Accountant.txt,527
+683,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UBS_Shawn Loh_Fund Admin.txt,704
+684,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Addleshaw_Treliza Li_Office Manager.txt,2401
+685,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-SBC_Loh Chuan Keat_Corp Ops Mgr.txt,1945
+686,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Bayin Resources_Cloris Chen_Accounting Clerk.txt,393
+687,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC _Tan Yan Peng_AVP_HF.txt,890
+688,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Chia Jie Ying_Audit Senior.txt,463
+689,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PAG_Kevin Wong_Finance Manager.txt,725
+690,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-D&V_Simon Enofre_Accounting Associate.txt,495
+691,finance,/content/datartistry/ResumeParser/data/output/finance-Capitaland_Esther_Senior Executive.txt,647
+692,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-MCP_Zou Jing_Fund Accountant_Hedge.txt,543
+693,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-People & Projects_Roberto Mariani_Account Manager.txt,733
+694,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Justin Ng_Fund Accountant.txt,708
+695,sales,/content/datartistry/ResumeParser/data/output/sales-UOB_Patcharapen_Client Acq Manager.txt,1063
+696,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BDO_Ma Ying Ying_IA Senior.txt,273
+697,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-MelocoLot_Helen Huang_Finance Manager.txt,1109
+698,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Jasmine Ong_Audit Associate.txt,359
+699,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Paridon Asia_StefanoLim_Derivatives Analyst.txt,417
+700,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Westpac_Alan Xu_PB Summer Analyst.txt,486
+701,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-MOM China_Ivy Tang Yan_Accounting Supervisor.txt,491
+702,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SCGBS_Daphne Pereira_AM FA.txt,1571
+703,finance,/content/datartistry/ResumeParser/data/output/finance-Spearhead Global_Leong Mei+Teng_Accountant.txt,1419
+704,compliance,/content/datartistry/ResumeParser/data/output/compliance-JP Morgan_Chong Jia Yi_Documentation Analyst.txt,379
+705,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HLB_Henry Wang_Accountant.txt,187
+706,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Alicia Chan_Asst Manager.txt,433
+707,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-FAC_Evon Cheong_Acc Exec.txt,632
+708,finance,/content/datartistry/ResumeParser/data/output/finance-Chanel_Penny Wong_AP GL.txt,432
+709,finance,/content/datartistry/ResumeParser/data/output/finance-Millie's_Duane Tan_Sales Mkt.txt,410
+710,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITIC_Glenn Ip_Sr FM.txt,879
+711,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Kimberley Kok_Audit Associate.txt,395
+712,finance,/content/datartistry/ResumeParser/data/output/finance-Capgemini_Sheron Chau_Accountant.txt,389
+713,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-CITCO_Annie Wong_Cosec.txt,359
+714,sales,/content/datartistry/ResumeParser/data/output/sales-LBG Bank_Sani Tsuruta_ BD Manager.txt,1963
+715,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Gordian Capital_AI LIN_Investment Ops.txt,350
+716,sales,/content/datartistry/ResumeParser/data/output/sales-Commerzbank_Karthik Subrahmanian_FI Sales.txt,505
+717,admin,/content/datartistry/ResumeParser/data/output/admin-Chartnexus_Ng Sue Yee_Intern.txt,3
+718,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Kwek Chiaw Hong_Audit Senior.txt,552
+719,admin,/content/datartistry/ResumeParser/data/output/admin-Zhenghe Capital_Rainbow Chen_Office Manager.txt,733
+720,sales,/content/datartistry/ResumeParser/data/output/sales-Aberdeen_Lester Tan_Client Svcs Exec.txt,1045
+721,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Berlinda Eng_Senior Audit Associate.txt,403
+722,sales,/content/datartistry/ResumeParser/data/output/sales-Eureka Hedge_Jef Lim_Sr BD Exec.txt,492
+723,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Conifer_Benjamin Tan_Fund Acc_Hedge PE.txt,1027
+724,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Cantabile_Kevin Au_Acc Asst.txt,706
+725,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Mark Tan_Audit Intern.txt,347
+726,sales,/content/datartistry/ResumeParser/data/output/sales-GLG_Vivien Qin_Associate.txt,725
+727,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-TD Securities_Mathieu Beland_IB Associate.txt,543
+728,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-China Innovation_Kristen Lee_Cosec Asst.txt,455
+729,legal,/content/datartistry/ResumeParser/data/output/legal-Duane Morris_Victoria Lee_Lawyer.txt,1591
+730,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Shinewing_Clara Tong_Auditor.txt,302
+731,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Nicholas Chan_Senior Audit Associate.txt,321
+732,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Calzprime_Johnny Zhang_Head HK.txt,648
+733,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-SS&C_Velin Chua_AVP_Hedge.txt,413
+734,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Credit Suisse_Albert Sugianto_VP.txt,1102
+735,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Teo Jun Zi_Audit Manager.txt,900
+736,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Qian Bowen_SM.txt,679
+737,compliance,/content/datartistry/ResumeParser/data/output/compliance-UOB AM_Felyna Lee_Product AVP.txt,1512
+738,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-GF Securities_Zhou Shiyi_Equity Research Analyst.txt,473
+739,sales,/content/datartistry/ResumeParser/data/output/sales-Citco_Jadey Li_BD.txt,476
+740,finance,/content/datartistry/ResumeParser/data/output/finance-Yehe Consultancy_Cherry Tam_Accountant.txt,846
+741,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Makiko Hashimoto_BD Head.txt,459
+742,legal,/content/datartistry/ResumeParser/data/output/legal-Accorhotels_Sonya Vij_Legal Counsel.txt,1648
+743,sales,/content/datartistry/ResumeParser/data/output/sales-Bank LME_Gabby Sadki_Asset Mgmt Associate Director.txt,552
+744,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BDO_Wei Ziyun_Sr Accounts Ass.txt,964
+745,finance,/content/datartistry/ResumeParser/data/output/finance-LV_Zoey Chan_Finance Intern.txt,625
+746,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-The Common Good_Matthew Auw_Finance Intern.txt,451
+747,finance,/content/datartistry/ResumeParser/data/output/finance-EY_Lydia Fan_Auditor.txt,415
+748,finance,/content/datartistry/ResumeParser/data/output/finance-Knight Frank AM_Lim Tze Hao_Accounts Exec.txt,658
+749,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Edmond Zhang_Audit AM.txt,288
+750,finance,/content/datartistry/ResumeParser/data/output/finance-Phatra Securities_Nichakan_Financial Analyst.txt,419
+751,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Jay Lee_Audit Mgr.txt,430
+752,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-VMS_Sharon Poon_Fund Accountant.txt,596
+753,sales,/content/datartistry/ResumeParser/data/output/sales-DBS_Clare Tang_BD Manager.txt,840
+754,sales,/content/datartistry/ResumeParser/data/output/sales-Bloomberg_Yvonne Ho_Senior Sales.txt,647
+755,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Boardroom_Tay Chia Hong_Sr Cosec.txt,531
+756,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TA Corp_Daniel Ng_Accounts Officer.txt,425
+757,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_George Go_Assurance Intern.txt,554
+758,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CWC_Marco Chau_Senior Auditor.txt,648
+759,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-DBS_Tan Cher Aik_Enterprise Banking Associate.txt,440
+760,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Cat Leung_Audit Manager.txt,499
+761,legal,/content/datartistry/ResumeParser/data/output/legal-Colin Ng & P_Chloe Song_Associate.txt,135
+762,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Savita Sharma_Forensic Assistant Manager.txt,566
+763,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Deutsche_Yun Hao_IB Analyst.txt,557
+764,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Pegasus FM_Man Luo_Inv Ops AM.txt,1100
+765,sales,/content/datartistry/ResumeParser/data/output/sales-Phillip Capital_Gavin Chia_Head Corp Insti Sales.txt,1721
+766,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-OUE REIT_Lisa Mak_Sr Accounts.txt,737
+767,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Choon Onn Chan_Audit Manager.txt,1231
+768,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TE Healthcare_Serene Seah_SFM.txt,1461
+769,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOCI_Sunny Wong_Fund Acc Sr.txt,372
+770,trustee,/content/datartistry/ResumeParser/data/output/trustee-Julius Baer_Carol Choi_Wealth Planning.txt,626
+771,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TrustCapital Advisors_Khoo Vi-vian_Finance AVP.txt,972
+772,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Chen Mingzhe_Audit Manager.txt,261
+773,legal,/content/datartistry/ResumeParser/data/output/legal-Rockwills Trustee_Benson Ooi_Head of Trusts.txt,576
+774,finance,/content/datartistry/ResumeParser/data/output/finance-HSBC_Elie Chang_Liquidity AVP.txt,518
+775,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Xander_Ng Yee Lu_FM.txt,691
+776,legal,/content/datartistry/ResumeParser/data/output/legal-SG_Ludovico Cardone_Legal Counsel.txt,781
+777,finance,/content/datartistry/ResumeParser/data/output/finance-Sequoia_Rachel Kei_FM.txt,455
+778,sales,/content/datartistry/ResumeParser/data/output/sales-P&G_Supanun_AR Analyst.txt,475
+779,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Anbang AM_Claire Shen_Equity Analyst.txt,551
+780,finance,/content/datartistry/ResumeParser/data/output/finance-Langham_Hazel Leung_Asst Accountant.txt,1734
+781,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Harbour 2_Ian Hay_CFO.txt,1257
+782,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC Securities_Tong Pauline_Senior Fund Acc_Hedge.txt,530
+783,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Lau Eng Hooi_Audit Manager.txt,150
+784,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Hai Tong_Denis Kong_SVP.txt,748
+785,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CIM_Jacelyn Tan_Fund Acc.txt,477
+786,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-SBI_Wang Hao_Senior Analyst.txt,1179
+787,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Jade Kuok_Fund Acc.txt,623
+788,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PWC_Eric Cheung_Audit Senior.txt,503
+789,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOCI_Thomas Chin_SFA.txt,461
+790,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Cai Peizhen_Audit Senior.txt,421
+791,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Low Hwee Ming_SM.txt,673
+792,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Amundi AM_Dong Xiaopeng_Proj Consultant.txt,662
+793,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Godrej_Dhiraj Somani_Senior Manager.txt,789
+794,finance,/content/datartistry/ResumeParser/data/output/finance-Super FI_Kho Teck Ghim_FM.txt,1290
+795,sales,/content/datartistry/ResumeParser/data/output/sales-Abraaj_Renny Chong_Fundraising Analyst.txt,815
+796,human_resource,/content/datartistry/ResumeParser/data/output/human_resource-Guard Capital_Godiva Tse_Office Manager.txt,378
+797,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Baker Tilly_Seow Hong Siah_Audit Senior.txt,439
+798,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Nathan Tan_Sr Fund Acc_Hedge.txt,358
+799,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Chiew Jien Hoong_Manager.txt,521
+800,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Mizuho_Vera Koh_CDD.txt,445
+801,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Intertrust_Celia Ng_Sr Cosec.txt,862
+802,finance,/content/datartistry/ResumeParser/data/output/finance-Tour East_Vanessa Chiam_Finance AM.txt,1243
+803,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Unity Group_Tham Chee Hao_Finance Manager.txt,578
+804,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_James Nguyen_Audit Senior.txt,796
+805,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Progress Asia_Chantel Chua_FA.txt,412
+806,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Julius Baer_Yu Hui Min_Finance Officer.txt,308
+807,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-SCB_Matthias Chui_Cosec Officer.txt,514
+808,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Lim Xin Yi_FA_Hedge.txt,641
+809,admin,/content/datartistry/ResumeParser/data/output/admin-Allen Glledhill_Yusri_Admin.txt,929
+810,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Hugh Lim_IA Mgr.txt,594
+811,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Jynwel_Alfred Shum_Finance Exec.txt,1062
+812,finance,/content/datartistry/ResumeParser/data/output/finance-Pearson_Henry Yeung_Accountant.txt,640
+813,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Fresh Accounting_Frank Ki_Senior Financial Accountant.txt,398
+814,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Macquarie_Erin Lin_Research Associate.txt,375
+815,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HSBC_Isabella Man_Sr FA.txt,341
+816,trustee,/content/datartistry/ResumeParser/data/output/trustee-BNYM_Sebastian Tay_Trust Workflow Lead.txt,790
+817,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Wofung_Connie Cheung_Sr Cosec Mgr.txt,1815
+818,admin,/content/datartistry/ResumeParser/data/output/admin-Fosun_Beatrice Ling_Admin Asst.txt,318
+819,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-CIMB_Jonathan Shyong_IB Sr Associate.txt,600
+820,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Allard Partners_Ng Xin Yao_Investment Analyst.txt,545
+821,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Cleo Zhang_Audit Associate.txt,607
+822,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Flora Chan_Mgr.txt,528
+823,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Godrej_Dhiraj Somani_Investment Manager.txt,789
+824,trustee,/content/datartistry/ResumeParser/data/output/trustee-Barclays_Matthew Corbin_MD.txt,1905
+825,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TriOptimal_LiuYangdan_Valuation Analytics.txt,513
+826,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Virgin Radio_Hayley Goh_Accounting.txt,976
+827,sales,/content/datartistry/ResumeParser/data/output/sales-ITG_Stanley Fung_VP Client Svcs.txt,678
+828,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-PWC_Jonas Lin_Mgr.txt,984
+829,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Conifer_Jarrel Chiew_VP Fund Acc.txt,364
+830,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Luo Lingyan_Audit Associate.txt,397
+831,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Felice Leong_Audit Senior.txt,230
+832,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Zeng Chun_Fund Admin_PERE.txt,690
+833,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Neuberger Berman_Kev Tang_Financial Associate.txt,1580
+834,sales,/content/datartistry/ResumeParser/data/output/sales-Ahli Bank_V.Gowribalan_Head of Asset Management.txt,1217
+835,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Credit Suisse_Lee Da Wei_Equity Research Associate.txt,525
+836,finance,/content/datartistry/ResumeParser/data/output/finance-iProperty_Chan Lai Lin_Sr Accountant.txt,797
+837,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EC World_Tam Wee Jie_Sr Accounts Exec.txt,611
+838,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Portcullis_Liew Shu Jun_SFA_Hedge PE.txt,1306
+839,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PKF_Henry Kwan_Sr Accountant.txt,245
+840,sales,/content/datartistry/ResumeParser/data/output/sales-Andas Tele_Takorn Khempila_BD Sr Associate.txt,796
+841,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Noah Holdings_Nicole CHEN_Senior Analyst.txt,541
+842,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Maples_Gracie Ai_Fund Accountant.txt,443
+843,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Hon+Hiu+Ling_Audit Senior Associate.txt,382
+844,finance,/content/datartistry/ResumeParser/data/output/finance-Kerry Properties_Circle Ho_Accounting Officer.txt,378
+845,legal,/content/datartistry/ResumeParser/data/output/legal-HSBC_Theresa Goh_AVP Trust.txt,107
+846,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TES_Akash Shah_Group CFO.txt,1937
+847,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Citylinkers_Lam Wai Ying_Cosec Asst.txt,354
+848,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-VMA_Joseph Mak_FA Manager.txt,1051
+849,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-RSM_Teo Ji Yu_Auditor.txt,401
+850,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Jeff Pung_FA.txt,392
+851,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-HP_Aleksandra Pachecka_Financial Analyst.txt,556
+852,secretary,/content/datartistry/ResumeParser/data/output/secretary-ATR Manu_Stephanie Chan_Secretary.txt,980
+853,admin,/content/datartistry/ResumeParser/data/output/admin-Paulson&Co_Ruby Shiu_Office Manager.txt,475
+854,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-RDM_Trevor Yang_FM.txt,725
+855,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-RHT_Michelle Wong_Cosec AD.txt,1426
+856,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Tan Chee How_Tax Associate.txt,686
+857,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BlueCrest Capital_Chuah Chongjyn_PC.txt,558
+858,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Bravia Capital_Erica Yu_Associate.txt,416
+859,software_developer,/content/datartistry/ResumeParser/data/output/software_developer-a1.txt,570
+860,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-TD Securities_Seah Hsiao Wei_Ops Risk Control.txt,792
+861,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-UOB_Keith Goh_Credit Analyst.txt,838
+862,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-JLL_Kelly Tsang_Asst Accountant.txt,480
+863,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-AIA_Ken Wang_Fund Acc.txt,518
+864,legal,/content/datartistry/ResumeParser/data/output/legal-Wintrust_Luna Tjung_Wealth Planner.txt,1101
+865,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Somerley_Yihui Chen_IBD Analyst.txt,600
+866,compliance,/content/datartistry/ResumeParser/data/output/compliance-PWC_Penny Lim_Risk AM.txt,1002
+867,sales,/content/datartistry/ResumeParser/data/output/sales-Kotak Mahindra_Nakul Maheshwari_VP Institutional Sales.txt,1202
+868,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BNYM_Yeo Zhikai_Fund Acc_Hedge.txt,358
+869,finance,/content/datartistry/ResumeParser/data/output/finance-Adent Associates_Ter Guohao_Audit Associates.txt,451
+870,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Libra_Szesane Lee_Group FM.txt,1277
+871,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_John Wong_Treasury Advisory.txt,738
+872,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Wing Tung Hong_Sam Gan_Sr Accounts Clerk.txt,444
+873,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Beijing Capital_Jojo Chen_Inv Analyst.txt,479
+874,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Conifer_Janelle Lim_VP Fund Acc.txt,734
+875,sales,/content/datartistry/ResumeParser/data/output/sales-JP Mogan_Jeanette Tai_ECM Associate.txt,538
+876,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-KPMG_Thomas Yap_AM.txt,453
+877,finance,/content/datartistry/ResumeParser/data/output/finance-ABN_Joyce Shum_Accountant.txt,510
+878,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-NAB_Jasmine Tan_Customer Associate.txt,562
+879,finance,/content/datartistry/ResumeParser/data/output/finance-HSBC_Johnson Chan_Trust Acc Officer.txt,374
+880,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Apex_Nicole Shen_Senior Fund Accountant.txt,945
+881,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Asiya Inv_Simone Yao_Equity Research Analyst.txt,550
+882,finance,/content/datartistry/ResumeParser/data/output/finance-Genk Capital_CHEN HONGYI_Equities Derivatives Trader.txt,699
+883,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Altimetrik_Reethi Prasad_Industrial Training.txt,542
+884,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Tokai Tokyo_James_ Howes_Fund Ops_Hedge.txt,1622
+885,sales,/content/datartistry/ResumeParser/data/output/sales-Citibank_Edda Wee_RM.txt,660
+886,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Aecom_Cheryl Lau_Asst Accountant.txt,710
+887,finance,/content/datartistry/ResumeParser/data/output/finance-Schlumberger_Yogesvaran Saithu_Mgmt Accountant.txt,1358
+888,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Elements Advisors_Peggy Li_Analyst.txt,327
+889,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-PWC_Kwong Shi Han__Sr Associate.txt,540
+890,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Michael Li_Audit Senior.txt,547
+891,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Sandy Sze_Fund Acc.txt,546
+892,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Tricor_Clare Li_Cosec Supervisor.txt,390
+893,finance,/content/datartistry/ResumeParser/data/output/finance-Growsell_David Dai_Sr Accounts Clerk.txt,353
+894,finance,/content/datartistry/ResumeParser/data/output/finance-Apple_Lee Soo Yee_FC.txt,934
+895,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Axiom_Lim Chung Heng_Asst FM_PE Hedge.txt,941
+896,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-PAG_Jonathan Lam_Senior Manager.txt,639
+897,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Moody's_Huijuan Luo_Equity Reserarch AVP.txt,638
+898,trustee,/content/datartistry/ResumeParser/data/output/trustee-Credit Suisse_Carol Tan_Trust Mgr.txt,1299
+899,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-CITCO_Tan Chee Leong_FA_Hedge.txt,765
+900,secretary,/content/datartistry/ResumeParser/data/output/secretary-Tayang Group_Carman Cheung_PA.txt,731
+901,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-MCP_Carloo Ng_Fund Acc_Hedge.txt,516
+902,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-State Street_Jo Wong_SFA_PE.txt,658
+903,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Morgan Stanley_Frankie Zhu_Equity Research.txt,422
+904,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Precursor_MARLINA_Acc Mgr.txt,374
+905,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Ascapia Capital_Kasaya Shuei_Ops Analyst.txt,622
+906,admin,/content/datartistry/ResumeParser/data/output/admin-Graduan_MUHAMMAD HAFIFI BADRULDIN_Data Entry.txt,477
+907,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-DBS Vickers_Eric Yee_Senior Research Analyst.txt,1015
+908,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Blackrock_Dina Nagao_FC_PE.txt,871
+909,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Heritas_Brendan Yam_PE Associate.txt,749
+910,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Tracy Ng_Senior Auditor.txt,447
+911,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Tricor_Raphael Ng_Cosec Supervisosr.txt,334
+912,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Wen Qi Heng_Audit Senior.txt,250
+913,finance,/content/datartistry/ResumeParser/data/output/finance-KPMG_Leow Wen Sheu_Audit Senior.txt,579
+914,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Deloitte_Samuel Lim_Audit Senior.txt,529
+915,sales,/content/datartistry/ResumeParser/data/output/sales-ABN AMRO_Husseyn Smili_Relationship Manager Director.txt,438
+916,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Globaleye_Pooja Rai_Investment Analyst.txt,558
+917,finance,/content/datartistry/ResumeParser/data/output/finance-Bloomberg_Xie Tengyu_FI Specialist.txt,607
+918,finance,/content/datartistry/ResumeParser/data/output/finance-Knight Frank AM_Tham Xin Yi_Accounts Exec.txt,456
+919,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Fiduciary_Therese Ng_Cosec Manager.txt,1434
+920,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-JPM_Eliza Tay_IB Analyst.txt,676
+921,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Trang Tong_Audit Asst.txt,422
+922,finance,/content/datartistry/ResumeParser/data/output/finance-PWC_Vanessa Fok_Audit Senior.txt,483
+923,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-EY_Tanki Ip_Transactions Senior Associate.txt,896
+924,sales,/content/datartistry/ResumeParser/data/output/sales-ABN_Yee Choon Kit_Relationship Manager.txt,559
+925,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Schroders_Benny Goh_Portfolio Accountant.txt,575
+926,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-Morgan Stanley_Samuel Ong_Equity Research.txt,650
+927,secretary,/content/datartistry/ResumeParser/data/output/secretary-Oneday Capital_Jaclyn Chen_PA.txt,799
+928,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-Chu & Lo_Cathy Wong_Audit Officer.txt,695
+929,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-BOS_Novita Lam_Product Marketing.txt,492
+930,compliance,/content/datartistry/ResumeParser/data/output/compliance-JPM_Hedayaty Amin_Compliance Analyst.txt,428
+931,investment_analyst,/content/datartistry/ResumeParser/data/output/investment_analyst-ICBC_Jeff Li_Inv Analyst.txt,3071
+932,fund_accounting,/content/datartistry/ResumeParser/data/output/fund_accounting-China Metro_Ben Shum_Senior Accountant.txt,1038
+933,corporate_secretary,/content/datartistry/ResumeParser/data/output/corporate_secretary-Rodyk_Nelson Lee_Sr Cosec.txt,486
+934,trustee,/content/datartistry/ResumeParser/data/output/trustee-Mornington_ADELINE KHOO_Ops Admin Manager.txt,1104
+935,sales,/content/datartistry/ResumeParser/data/output/sales-Phillip Capital_ChrisAo_Inv Solns Manager.txt,250
