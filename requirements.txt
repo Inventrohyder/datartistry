@@ -1,6 +1,6 @@
 dash==1.13.4
 jupyter_dash==0.2.1.post1
 sklearn==0.0
-tensorflow==2.9.3 
+tensorflow==2.11.1 
 jupyterlab==2.2.10
 PyPDF2==1.27.5
