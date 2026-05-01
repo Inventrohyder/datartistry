@@ -3,4 +3,4 @@ jupyter_dash==0.2.1.post1
 sklearn==0.0
 tensorflow==2.12.1 
 jupyterlab==4.5.7
-PyPDF2==1.27.5
+PyPDF2==1.27.9
